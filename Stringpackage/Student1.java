@@ -10,6 +10,7 @@ public class Student1 {
         this.age=age;
         this.rno=rno;
         this.percent=percent;
+        System.out.println("hello");
     }
 
 }
